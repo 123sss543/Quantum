@@ -1,0 +1,7 @@
+streamlit
+numpy
+qiskit==0.46.0  # Pin a specific version to avoid compatibility issues
+qiskit-aer==0.13.0
+plotly
+matplotlib
+pylatexenc==2.10  # Specific version compatible with Qiskit
